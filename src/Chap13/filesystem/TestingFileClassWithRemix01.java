@@ -19,6 +19,9 @@ public class TestingFileClassWithRemix01 {
         System.out.println("What's the length of this file: " +  file.length());
         System.out.println("Give me the absolute file: " +  file.getAbsoluteFile());
         System.out.println(file.isAbsolute());
+        System.out.println();
+        String s = System.getProperty("line.separator");
+        //System.out.println("sdsa " + s);
 
         //create a file to store data with automatic close() since the try-with-resource logic
         try(java.io.PrintWriter result =  new java.io.PrintWriter(file)) {
@@ -42,11 +45,6 @@ public class TestingFileClassWithRemix01 {
                     //continue look;
                 }
             }
-
         }
-
-
-
-
     }
 }
