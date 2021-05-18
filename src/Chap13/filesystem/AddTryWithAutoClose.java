@@ -9,14 +9,15 @@ public class AddTryWithAutoClose {
         if (file.exists())
         {
             System.out.println("Already exist");
-            System.exit(0);
+            //System.exit(0);
         }
         //CREAT A FILE AND POPU;ATE IT USING THE TRY-WITH-RESOURCE
-        try(java.io.PrintWriter output = new java.io.PrintWriter(file))
-        {
-            output.println("THIS IS BURMAU");
-            output.println("no man, no cry");
-        }
+//        try(java.io.PrintWriter output = new java.io.PrintWriter(file))
+//        {
+//            output.println("THIS IS BURMAU");
+//            output.println("no man, no cry");
+//        }
 
+        System.out.println(file.canRead());
     }
 }
