@@ -1,8 +1,6 @@
 package Chap13;
 
 import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.PrintWriter;
 import java.util.Scanner;
 
 public class RemoveTxt {
@@ -36,7 +34,9 @@ public class RemoveTxt {
             while (in.hasNext()){
                 //i wanna check if the string of word is equal to target and change
                 if(target.equals(in.next()) )
-                    System.out.println(true);
+                {
+                    String i = in.toString().replace(target, " ");
+                }
                 else
                     System.out.println(" nope");
             }
