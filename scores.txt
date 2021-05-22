@@ -1,2 +1,52 @@
-THIS IS BURMAU
-no man, no cry
+sn 	 |Name 									 |scores 	
+__________________________________________________________________________
+29	 |Carmelo Cano
+48	 |Lyla Foote
+41	 |Kaycee Skipper
+17	 |Rueben Gatlin
+38	 |Floria Jolley
+24	 |Sofia Greenwood
+35	 |Alyse Palma
+24	 |Marlys Canada
+7	 | Lean Hass
+33	 |Christi Holder
+43	 |Nelly Hassell
+13	 |Maye Sheehan
+24	 |Hilary Hamblin
+16	 |Gabriela Street
+43	 |Virgina Schaffer
+22	 |Milford Hinojosa
+11	 |Janella Hales
+46	 |Terra Barham
+7	 | Leola Humphries
+49	 |Bertram Looney
+7	 |Rufina Gagnon
+5	 |Lamont Everhart
+31	 |Cristy Stephenson
+10	 |Zena Beltran
+45	 |Aaron Rees
+13	 | Fonda Holm
+7	 |Merrill Daigle
+4	 | Magaret Isaac
+18	 |Tyson Meyers
+36	 |Charleen Hinkle
+27	 |Ashlyn Bible
+11	 |Sean Buckner
+45	 |Mimi Neill
+15	 |Thao Lucero
+17	 |Vern Bobo
+30	 |Raymond Spearman
+38	 |Joellen Christenson
+4	 |Branda Linder
+8	 | Drusilla Mchugh
+9	 |Kira Pedersen
+22	 |Verla Packard
+39	 |Sid Mcintire
+35	 |Wiley Melvin
+16	 |Coralee Regalado
+4	 |Temika Bauer
+40	 |Cinderella Babb
+8	 |Dawna Catalano
+15	 |Marina Le
+29	 |Laraine Bowens
+41	 |Ali Whitmire
