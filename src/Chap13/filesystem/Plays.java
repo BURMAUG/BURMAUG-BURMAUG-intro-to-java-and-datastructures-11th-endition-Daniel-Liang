@@ -75,7 +75,6 @@ public class Plays {
                continue top;
            }
         }
-
         //get a file to read
         java.io.File file = new java.io.File("scores.txt");
         //check if its in the current directory
@@ -88,7 +87,6 @@ public class Plays {
             java.io.PrintWriter in =  new PrintWriter(file)
         )
         {
-
             in.printf("sn \t" + " |Name \t" + "\t\t\t\t\t\t\t\t |scores \t\n");
             in.println("__________________________________________________________________________");
             while (count < students.size())

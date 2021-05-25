@@ -4,10 +4,13 @@ import java.util.Date;
 
 public class Loan {
 
+   // private final Date loan11Date;
+
     public static void main(String[] args) {
         Loan loan = new Loan(12.2, 5, 2300);
         System.out.println(loan.getAnnualInterestRate() + "\nDate " + loan.getLoanDate());
     }
+
     private double annualInterestRate;
     private int numberOfYears;
     private double loanAmount;
@@ -59,4 +62,5 @@ public class Loan {
     public void setLoanDate(Date loanDate) {
         this.loanDate = loanDate;
     }
+
 }

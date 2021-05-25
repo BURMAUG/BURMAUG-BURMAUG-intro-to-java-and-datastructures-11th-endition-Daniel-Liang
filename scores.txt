@@ -1,52 +1,52 @@
 sn 	 |Name 									 |scores 	
 __________________________________________________________________________
-29	 |Carmelo Cano
-48	 |Lyla Foote
-41	 |Kaycee Skipper
-17	 |Rueben Gatlin
-38	 |Floria Jolley
-24	 |Sofia Greenwood
-35	 |Alyse Palma
-24	 |Marlys Canada
+37	 |Carmelo Cano
+33	 |Lyla Foote
+37	 |Kaycee Skipper
+45	 |Rueben Gatlin
+0	 |Floria Jolley
+23	 |Sofia Greenwood
+25	 |Alyse Palma
+48	 |Marlys Canada
 7	 | Lean Hass
-33	 |Christi Holder
-43	 |Nelly Hassell
-13	 |Maye Sheehan
-24	 |Hilary Hamblin
-16	 |Gabriela Street
-43	 |Virgina Schaffer
-22	 |Milford Hinojosa
-11	 |Janella Hales
-46	 |Terra Barham
-7	 | Leola Humphries
-49	 |Bertram Looney
-7	 |Rufina Gagnon
-5	 |Lamont Everhart
-31	 |Cristy Stephenson
-10	 |Zena Beltran
-45	 |Aaron Rees
-13	 | Fonda Holm
-7	 |Merrill Daigle
-4	 | Magaret Isaac
-18	 |Tyson Meyers
-36	 |Charleen Hinkle
-27	 |Ashlyn Bible
-11	 |Sean Buckner
-45	 |Mimi Neill
-15	 |Thao Lucero
-17	 |Vern Bobo
-30	 |Raymond Spearman
-38	 |Joellen Christenson
-4	 |Branda Linder
-8	 | Drusilla Mchugh
-9	 |Kira Pedersen
-22	 |Verla Packard
-39	 |Sid Mcintire
-35	 |Wiley Melvin
-16	 |Coralee Regalado
-4	 |Temika Bauer
-40	 |Cinderella Babb
-8	 |Dawna Catalano
-15	 |Marina Le
-29	 |Laraine Bowens
-41	 |Ali Whitmire
+3	 |Christi Holder
+24	 |Nelly Hassell
+29	 |Maye Sheehan
+45	 |Hilary Hamblin
+40	 |Gabriela Street
+40	 |Virgina Schaffer
+18	 |Milford Hinojosa
+2	 |Janella Hales
+1	 |Terra Barham
+43	 | Leola Humphries
+7	 |Bertram Looney
+40	 |Rufina Gagnon
+7	 |Lamont Everhart
+16	 |Cristy Stephenson
+28	 |Zena Beltran
+13	 |Aaron Rees
+11	 | Fonda Holm
+25	 |Merrill Daigle
+49	 | Magaret Isaac
+19	 |Tyson Meyers
+13	 |Charleen Hinkle
+25	 |Ashlyn Bible
+6	 |Sean Buckner
+4	 |Mimi Neill
+36	 |Thao Lucero
+1	 |Vern Bobo
+37	 |Raymond Spearman
+32	 |Joellen Christenson
+36	 |Branda Linder
+41	 | Drusilla Mchugh
+47	 |Kira Pedersen
+43	 |Verla Packard
+18	 |Sid Mcintire
+4	 |Wiley Melvin
+1	 |Coralee Regalado
+40	 |Temika Bauer
+5	 |Cinderella Babb
+27	 |Dawna Catalano
+48	 |Marina Le
+30	 |Laraine Bowens
+33	 |Ali Whitmire

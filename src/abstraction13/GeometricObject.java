@@ -2,7 +2,7 @@ package abstraction13;
 
 import java.util.Date;
 
-public abstract class GeometricObject {
+public abstract  class GeometricObject {
     private String color;
     private boolean filled;
     private java.util.Date dateCreated;
