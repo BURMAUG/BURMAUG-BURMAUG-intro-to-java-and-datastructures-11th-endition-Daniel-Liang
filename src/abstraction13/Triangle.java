@@ -154,7 +154,7 @@ class Test{
 
         Triangle triangle = new Triangle("Red", true, (int)sideA, (int)sideB, (int)sideC, 23 );
         System.out.println(triangle.toString());
-        System.out.println(triangle.getPerimeter());
+        System.out.println(triangle.getArea()+ " " +triangle.getDateCreated() + " " +triangle.getPerimeter());
     }
 
 }

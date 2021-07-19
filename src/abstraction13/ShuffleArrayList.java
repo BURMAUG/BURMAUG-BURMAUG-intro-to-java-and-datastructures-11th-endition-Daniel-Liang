@@ -12,4 +12,8 @@ public class ShuffleArrayList {
         Collections.shuffle(list);
         System.out.println(list);
     }
+    public static  void sortArrayList(ArrayList<Number> list)
+    {
+
+    }
 }

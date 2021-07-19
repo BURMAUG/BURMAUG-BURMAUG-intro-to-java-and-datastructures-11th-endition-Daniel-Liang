@@ -8,13 +8,13 @@ public class ReadingData {
         java.io.File file = new File("Welcome.txt");
 
         java.util.Scanner scan = new Scanner(file);
+//        System.out.println("Asdjhasldhaks asjkdhfa;ifhds");
+//        String lineSeparator = System.getProperty("line.separator");
+//        //System.out.println(lineSeparator);
         while(scan.hasNext())
         {
-            String first = scan.next();
-            String sex = scan.next();
-           // String thr = scan.next();
-            //String hr = scan.next();
-            System.out.println(first + " " + sex + " "  );
+            int number = scan.nextInt();
+            System.out.println(number);
         }
         scan.close();
 

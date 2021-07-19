@@ -1,2 +1,4 @@
-package banking;public class Adult {
+package banking;
+
+public class Adult {
 }

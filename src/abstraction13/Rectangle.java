@@ -1,6 +1,6 @@
 package abstraction13;
 
-public class Rectangle extends GeometricObject{
+public class Rectangle extends GeometricObject implements Comparable<Rectangle>, Cloneable{
 
     //variables
     private double radius;
@@ -75,5 +75,10 @@ public class Rectangle extends GeometricObject{
     @Override
     public double getPerimeter() {
         return sideA + sideB + base;
+    }
+
+    @Override
+    public int compareTo(Rectangle o) {
+        return 0;
     }
 }

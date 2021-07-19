@@ -1,2 +1,4 @@
-package banking;public class Student {
+package banking;
+
+public class Student implements AllAccounts {
 }

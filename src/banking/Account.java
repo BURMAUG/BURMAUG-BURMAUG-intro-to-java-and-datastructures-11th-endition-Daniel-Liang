@@ -2,7 +2,7 @@ package banking;
 
 import java.util.ArrayList;
 
-public class Bank {
+public abstract class Account {
 
     private Customer customer;
     private double balance;
@@ -21,25 +21,9 @@ public class Bank {
         return balance;
     }
 
-    public void setBalance(double balance) {
-        this.balance = balance;
-    }
-
-    public Long getAccount_number() {
-        return account_number;
-    }
-
-    public void setAccount_number(Long account_number) {
-        this.account_number = account_number;
-    }
-
-    public ArrayList<Transaction> getTransactions() {
-        return transactions;
-    }
-
-    public void setTransactions(ArrayList<Transaction> transactions) {
-        this.transactions = transactions;
-    }
+    abstract void deposit(double amount);
+    abstract void withdraw(double amount);
+    abstract double addInterest();
 
     @Override
     public String toString() {
@@ -50,4 +34,5 @@ public class Bank {
                 ", transactions=" + transactions +
                 '}';
     }
+
 }
